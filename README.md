@@ -8,4 +8,4 @@ clone the repo
 
 cd to the cloned dir
 
-use tsc -w to complie and make revisions to your local version
+use tsc -w to compile and make revisions to your local version
